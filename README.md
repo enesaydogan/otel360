@@ -11,3 +11,5 @@ Render 4 = https://enesaydogan.github.io/otel360/otel-tas/
 Render lobi = https://enesaydogan.github.io/otel360/otel-lobi/
 
 Render lobi revize = https://enesaydogan.github.io/otel360/otel-lobi2/
+
+Render lobi revize 2 = https://enesaydogan.github.io/otel360/otel-lobi3/
